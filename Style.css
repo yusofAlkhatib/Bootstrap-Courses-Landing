@@ -1,6 +1,16 @@
 body{font-family: 'Poppins', sans-serif;}
 .banner.title{ font-size: 60px;}
 
-body {
-    display: contents;
+
+
+.feature-card:hover{
+    -webkit-box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+}
+.card{
+    transition: 0.3s;
+}
+.card:hover{
+    margin-top: -15px;
 }
