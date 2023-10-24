@@ -1,2 +1,6 @@
 body{font-family: 'Poppins', sans-serif;}
 .banner.title{ font-size: 60px;}
+
+body {
+    display: contents;
+}
